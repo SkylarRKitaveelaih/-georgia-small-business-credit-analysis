@@ -1,6 +1,7 @@
 Small Business Credit Access and Business Formation in Georgia
 
 OVERVIEW
+
 In this project, the research question focuses on the correlation between small-business lending from the SBA and entrepreneurship in Georgia counties.
 
 Data from the U.S. Small Business Administration 7(a) Loans and U.S. Census Business Dynamics Statistics (BDS) have been used to create a county-level data panel for the years 2020-2023 and determine whether counties that receive greater amounts of SBA loans relative to their number of businesses enter establishments at a greater rate.
