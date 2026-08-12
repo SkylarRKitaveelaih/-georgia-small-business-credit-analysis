@@ -65,7 +65,7 @@ On the other hand, the effect was weaker when the sample was narrowed down to on
 
 It seems that the observed correlation can be partly explained by a different characteristic between those counties that received SBA loans and those that did not.
 
-![SBA Credit Access and Business Formation](/../main/sba_credit_business_formation.png)
+https://github.com/SkylarRKitaveelaih/-georgia-small-business-credit-analysis/blob/main/%20%20%20%20%20%20%20%20sba_credit_business_formation.png
 
 The relationship between SBA loan intensity and establishment entry is positive but modest. The regression analysis tests whether this association persists after accounting for differences across years.
 
