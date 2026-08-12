@@ -1,16 +1,17 @@
 Small Business Credit Access and Business Formation in Georgia
-Overview
+
+OVERVIEW
 In this project, the research question focuses on the correlation between small-business lending from the SBA and entrepreneurship in Georgia counties.
 
 Data from the U.S. Small Business Administration 7(a) Loans and U.S. Census Business Dynamics Statistics (BDS) have been used to create a county-level data panel for the years 2020-2023 and determine whether counties that receive greater amounts of SBA loans relative to their number of businesses enter establishments at a greater rate.
 
 In addition, geographic credit gaps in counties are determined.
 
-Research Question
+RESEARCH QUESTION
 
 Does better access to SBA 7(a) loans result in more new business creation in counties throughout Georgia?
 
-Data
+DATA
 
 Analysis uses two public data sets:
 
@@ -19,7 +20,7 @@ Analysis uses two public data sets:
 
 Overlapping period for analysis is 2020-2023.
 
-Methodology
+METHODOLOGY
 
 The analyses were conducted using Python with packages such as pandas, NumPy, SciPy, statsmodels, and Matplotlib.
 
@@ -37,7 +38,7 @@ This process included:
 
 The main sample size is 620 county-year observations from Georgia.
 
-Key Findings
+KEY FINDINGS
 
 Intensities of SBA lending had a positive correlation with firm creation in the main model.
 
@@ -63,7 +64,7 @@ On the other hand, the effect was weaker when the sample was narrowed down to on
 
 It seems that the observed correlation can be partly explained by a different characteristic between those counties that received SBA loans and those that did not.
 
-Credit-Gap Analysis
+CREDIT-GAP ANALYSIS
 
 To analyze geographic differences between entrepreneurial activity and SBA lending, I first standardized both establishment entry rates and SBA loan intensity by year and then contrasted the two statistics.
 
@@ -71,7 +72,7 @@ Credit gaps with positive values indicate counties and years in which there was 
 
 This study aims to point out research issues but does not suggest that firms in those counties could not access capital.
 
-Limitations
+LIMITATIONS
 
 These findings are indicative of associations rather than causations. In addition, SBA lending itself might be influenced by the local economic environment, whereas variables like growth in population, income levels, industrial makeup, banking, interest rates, and local policies might affect both lending and entrepreneurship.
 
@@ -79,11 +80,11 @@ SBA 7(a) lending is just one type of small business funding and thus does not re
 
 There are also peculiarities of the economic environment during the 2020-2023 period that should be taken into account.
 
-Tools
+TOOLS
 
 Python · pandas · NumPy · SciPy · statsmodels · Matplotlib · Google Colab
 
-Repository Contents
+REPOSITORY CONTENTS
 
 * Georgia_Small_Business_Credit_Analysis.ipynb — complete reproducible data-cleaning, analysis, regression, robustness, and visualization workflow.
 * README.md — project methodology, findings, and limitations.
