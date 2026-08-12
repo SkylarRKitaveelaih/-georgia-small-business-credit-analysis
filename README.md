@@ -65,13 +65,29 @@ On the other hand, the effect was weaker when the sample was narrowed down to on
 
 It seems that the observed correlation can be partly explained by a different characteristic between those counties that received SBA loans and those that did not.
 
+## Results Visualization
+
+### SBA Credit Access and Business Formation
+
+![SBA Credit Access and Business Formation](sba_credit_business_formation.png)
+
+The relationship between SBA loan intensity and establishment entry is positive but modest. The regression analysis tests whether this association persists after accounting for differences across years.
+
 CREDIT-GAP ANALYSIS
+
+## Credit-Gap Analysis
 
 To analyze geographic differences between entrepreneurial activity and SBA lending, I first standardized both establishment entry rates and SBA loan intensity by year and then contrasted the two statistics.
 
 Credit gaps with positive values indicate counties and years in which there was greater establishment creation relative to SBA lending.
 
 This study aims to point out research issues but does not suggest that firms in those counties could not access capital.
+
+### Largest Estimated Credit Gaps
+
+![Largest Estimated Small-Business Credit Gaps in Georgia](georgia_credit_gaps.png)
+
+The credit-gap measure highlights county-years where establishment entry was relatively strong compared with SBA lending intensity. Harris County (2020) produced the largest estimated gap among county-years with at least 100 firms, followed by Long County (2023) and Crawford County (2020).
 
 LIMITATIONS
 
