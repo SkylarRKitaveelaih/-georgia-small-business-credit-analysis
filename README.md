@@ -73,9 +73,10 @@ It seems that the observed correlation can be partly explained by a different ch
 
 The relationship between SBA loan intensity and establishment entry is positive but modest. The regression analysis tests whether this association persists after accounting for differences across years.
 
+The relationship between SBA loan intensity and establishment entry is positive but modest. The regression analysis tests whether this association persists after accounting for differences across years.
+
 CREDIT-GAP ANALYSIS
 
-## Credit-Gap Analysis
 
 To analyze geographic differences between entrepreneurial activity and SBA lending, I first standardized both establishment entry rates and SBA loan intensity by year and then contrasted the two statistics.
 
